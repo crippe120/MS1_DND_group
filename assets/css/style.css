@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body{
+    font-family: Verdana, Helvetica, sans-serif;
+    font-weight: 400;
+    color: #3a3a3a;
+    background-color: black;
+}
+
+/* styling for the header and logo button */
+
+.nav-bar-logo-image{
+    width: 150px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+    float: left;
+}
+
+#logo{
+    width: 150px;
+    height: 150px;
+}
+
+
+/* styling for the navigation bar */
+
+#nav-menu{
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+
+#nav-menu, #logo{
+    line-height: 75px;
+}
+
+#nav-menu li{
+    float: left;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#nav-menu a{
+    color: orange;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+}
