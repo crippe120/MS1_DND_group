@@ -9,7 +9,6 @@
 body{
     font-family: Verdana, Helvetica, sans-serif;
     font-weight: 400;
-    color: #3a3a3a;
     background-color: black;
 }
 
@@ -53,4 +52,89 @@ body{
     text-align: center;
     text-decoration: none;
     font-size: 17px;
+}
+
+#nav-menu a:hover{
+    border-bottom: orange solid 1px;
+}
+
+.active{
+    border-bottom: orange solid 1px;
+}
+
+
+/* code for the background image for the index.html file */
+
+#dnd-background-outer{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+#dnd-background-image{
+    height: 600px;
+    width: 100%;
+    background: url("/assets/images/dnd-group-background.jpg") no-repeat center center;
+}
+
+/* Code for the main text on the index page */
+
+#main-text{
+    height: 600px;
+}
+
+#main-text-header-text{
+    color:orange;
+    font-size: 40px;
+    font-family: Verdana, sans-serif;
+}
+
+#main-welcome-text{
+    color: orange;
+    font-size: 30px;
+    font-family: Helvetica, sans-serif;
+}
+
+#welcome-section-text{
+    color: orange;
+    font-size: 20px;
+    font-family: helvetica, sans-serif;
+
+}
+
+/* code for the date and time section */
+
+#time{
+    background: url('/assets/images/smedvegen-background.jpg') no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
+}
+
+#time div{
+    color:black;
+    width: 20%;
+    height: 200px;
+    float: left;
+    padding: 30px 0 20px;
+    text-align: center;
+}
+
+/* code for the footer on all pages */
+
+.social-media{
+    text-align: center;
+}
+
+.social-media > li{
+    display: inline;
+}
+
+.social-media i{
+    font-size: 150%;
+    margin: 2%;
+    padding: 5%;
+    color: #ff9100;
 }
