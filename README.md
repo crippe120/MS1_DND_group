@@ -43,7 +43,7 @@ I have added a link to the logo on the navebar that leads to the homepage for dn
 
 # Navigation design:
 I have put a fixed navigation bar to the top of the page. 
-In my footer i put social media links icons and google maps street adress along with phone number. (this is done on all three pages of the site)
+In my footer i put social media links icons. (this is done on all three pages of the site)
 
 ## Hierachy information
 Navigation bar left to right:
@@ -58,8 +58,8 @@ Navigation bar left to right:
 # technologies Used
 
 ## Languages
-    * [HTML5](https://en.wikipedia.org/wiki/HTML5)
-    * [CSS3](https://en.wikipedia.org/wiki/CSS)
+     [HTML5](https://en.wikipedia.org/wiki/HTML5)
+     [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ## Frameworks, Libraries, Programs
     * [Google Fonts](https://fonts.google.com) was used to import the fonts mentioned above in the project.
