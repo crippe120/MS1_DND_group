@@ -58,16 +58,17 @@ Navigation bar left to right:
 # technologies Used
 
 ## Languages
-     [HTML5](https://en.wikipedia.org/wiki/HTML5)
-     [CSS3](https://en.wikipedia.org/wiki/CSS)
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ## Frameworks, Libraries, Programs
-    * [Google Fonts](https://fonts.google.com) was used to import the fonts mentioned above in the project.
-    * [Fonts Awsome](https://fontawesome.com) was used to import the icons used in this project.
-    * [Am i Responsive](http://ami.responsivedesign.is) was use to make the mockup
-    * [Webformatter](https://webformatter.com/html) was used to beautify the code
-    * [Gitpod](https://www.gitpod.io) was used for coding the project
-    * [Github](https://github.com) was used to save and store the project after being pushed in Gitpod.
+* [Google Fonts](https://fonts.google.com) was used to import the fonts mentioned above in the project.
+* [Fonts Awsome](https://fontawesome.com) was used to import the icons used in this project.
+* [Am i Responsive](http://ami.responsivedesign.is) was use to make the mockup
+ * [Webformatter](https://webformatter.com/html) was used to beautify the code
+* [Gitpod](https://www.gitpod.io) was used for coding the project
+* [Github](https://github.com) was used to save and store the project after being pushed in Gitpod.
 
 
 # Deployment
@@ -75,15 +76,15 @@ Navigation bar left to right:
 ## GitHub Pages
 This project was deployed using Github pages.
 
-    1. Go to [Github](https://github.com)
-    2. Log in and find the repository
-    3. Click on the "Settings" button (it has a gear icon)
-    4. Scroll down the page to the "Github pages" section
-    5. Under the "Source" tab you will find a dropdown which is set to "none"
-    6. Change it to "Master"
-    7. The page will now refresh on it's own
-    8. go back down to "Github Pages"
-    9. A green notification box will now tell you that your site has been published and provide you with a link to the site.
+1. Go to [Github](https://github.com)
+2. Log in and find the repository
+3. Click on the "Settings" button (it has a gear icon)
+4. Scroll down the page to the "Github pages" section
+5. Under the "Source" tab you will find a dropdown which is set to "none"
+6. Change it to "Master"
+7. The page will now refresh on it's own
+8. go back down to "Github Pages"
+9. A green notification box will now tell you that your site has been published and provide you with a link to the site.
 
 # Credits
 
