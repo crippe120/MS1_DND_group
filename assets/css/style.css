@@ -79,6 +79,21 @@ body{
     background: url("/assets/images/dnd-group-background.jpg") no-repeat center center;
 }
 
+/* Code for the background image for group about page */
+#group-about-background-outer{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+#group-about-background-image{
+    height: 600px;
+    width: 100%;
+    background: url('/assets/images/dnd-about-background.png') no-repeat center center;
+}
+
 /* Code for the main text on the index page */
 
 #main-text{
