@@ -94,7 +94,7 @@ body{
     background: url('/assets/images/dnd-about-background.png') no-repeat center center;
 }
 
-/* Code for the main text on the index page */
+/* Code for the main text on the index page and about page */
 
 #main-text{
     height: 600px;
@@ -117,6 +117,29 @@ body{
     font-size: 20px;
     font-family: helvetica, sans-serif;
 
+}
+
+/* code for about p text */
+
+#about-text{
+    color: orange;
+    font-size: 20px;
+    font-family: helvetica, sans-serif;
+}
+
+
+/* Code for the section for orderd list*/
+
+#order-list-meet-up{
+    color: orange;
+    height: 600px;
+    font-family: Helvetica, sans-serif;
+}
+
+#order-list-online-play{
+    color: orange;
+    height: 600px;
+    font-family: Helvetica, sans-serif;
 }
 
 /* code for the date and time section */
